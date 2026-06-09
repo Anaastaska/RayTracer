@@ -86,22 +86,6 @@ The goal of this project was to build a custom rendering pipeline from scratch a
 
 ---
 
-## Example Results
-
-### Basic Phong Shading
-
-![Phong](images/phong.png)
-
-### Shadows
-
-![Shadows](images/shadows.png)
-
-### Recursive Ray Tracing
-
-![RayTracing](images/raytracing.png)
-
----
-
 ## Learning Outcomes
 
 This project helped me gain practical experience with:
