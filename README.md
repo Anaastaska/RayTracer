@@ -1,6 +1,6 @@
 # Ray Tracer (C#)
 
-![Showcase](images/showcase.png)
+![Showcase](rt004/outputRay(png).png)
 
 A CPU-based ray tracer written in C# as part of a Computer Graphics university project.
 
